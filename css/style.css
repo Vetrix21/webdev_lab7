@@ -1,4 +1,16 @@
 td, th {
 	border: 1px solid;
+  text-align: center;
+  padding: 5px 15px;
+  }
+
+  #data-header{
+    text-align: left;
+  }
+
+  img{
+    max-width: 80%;
+    width: 400px;
+    height: auto;
   }
   
